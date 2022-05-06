@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-      <div class="container-fluid">
+      <div class="container-fluid d-none d-md-block">
           <div class="row p-0">
             <div class="col-md-3 p-0">
               <div class="card left_side_content bg-dark">
@@ -10,7 +10,7 @@
             <div class="col-md-9">
                 <div class="row">
                     <div class="col-md-12 p-0">
-                        <div class="card content_wrapper p-0">
+                        <div class="card content_wrapper p-0 border-0">
                             <div class="d-flex" style="margin-top: 180px;">
                               <img 
                                   src="../assets/images/profile_photo.png" 
