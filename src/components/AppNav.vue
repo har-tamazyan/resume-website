@@ -1,5 +1,5 @@
 <template>
-<nav class="navbar navbar-white bg-white shadow-sm bg-body rounded">
+<nav class="navbar navbar-white bg-white shadow-sm bg-body rounded border-bottom">
   <div class="container-fluid">
     <a class="navbar-brand text-dark">Professional CV Home</a>
       <div class="navbar me-5">
